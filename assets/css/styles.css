@@ -175,7 +175,7 @@ footer .cv-pdf i{
 }
 
 footer .cv-pdf i:hover{
-    color: #e84610;
+    color: #e67e22;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -204,7 +204,7 @@ footer .cv-pdf i:hover{
 }
 
 .social-links li a i:hover{
-    background: #e84610;
+    background: #e67e22;
 }
 
 #footer-details{
