@@ -5,7 +5,7 @@
 
 ### User Centric Frontend Development Course
 
-#### Languages/Tools used
+### Languages/Tools used
         1) HTML 5
         2) CSS 3
         3) Bootstrap Library
