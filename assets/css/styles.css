@@ -11,7 +11,7 @@
 }
 
 .bg-color-personal-info {
-    background-color: #f4f4f4;
+    background-color: #e67e22;
 }
 
 .bg-color-skills{
@@ -23,7 +23,7 @@
 }
 
 .bg-color-contact {
-    background-color: #ffffff;
+    background-color: #0197D2;
 }
 
 .ui-menu-color-home {
@@ -244,6 +244,7 @@ footer .cv-pdf i:hover {
 .personal-info-item .key p,
 .personal-info-item .value p {
     margin: 0;
+    color: #fafafa;
 }
 
 .personal-info-item .key {
@@ -252,6 +253,10 @@ footer .cv-pdf i:hover {
     margin-right: 21px;
     padding-top: 2px;
     vertical-align: top;
+}
+
+#personal-info-heading {
+    color: #fafafa;
 }
 
 .personal-info-item .key p {
@@ -340,12 +345,17 @@ footer .cv-pdf i:hover {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
+    color: #fafafa;
 }
 
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
     max-width: 70%;
+}
+
+.text-center {
+    color: #fafafa;
 }
 
 button[type="submit"] {
