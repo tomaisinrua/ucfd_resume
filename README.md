@@ -1,4 +1,4 @@
-# Resume Project
+# Resume Mini-Project
 
 ## Code Institute
 ## Full Stack Diploma in Web Development
@@ -14,4 +14,4 @@
         6) Coffee
 
 
-### Hope you enjoy my Resume Project
+### Hope you enjoy my Resume Mini-Project
