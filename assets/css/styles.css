@@ -219,7 +219,7 @@ footer .cv-pdf i {
 }
 
 footer .cv-pdf i:hover {
-    color: #e84610;
+    color: #e67e22;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -247,7 +247,7 @@ footer .cv-pdf i:hover {
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #e67e22;
 }
 
 #footer-details {
@@ -319,7 +319,7 @@ footer .cv-pdf i:hover {
 
 
 .progress-section {
-    margin: 40px 20px;
+    margin: 20px 20px;
 }
 
 
@@ -338,10 +338,10 @@ footer .cv-pdf i:hover {
 }
 
 .timeline-item::before {
-    content: attr(data-dates);
+    content: attr(dates);
     position: absolute;
     left: 2.5em;
-    top: 3em;
+    top: 2em;
     display: block;
     font-family: "Exo", sans-serif;
     font-weight: 500;
@@ -398,7 +398,7 @@ button[type="submit"] {
 
 @media(min-width: 992px) {
     .section-column {
-        padding: 0 30px 30px;
+        padding: 0 30px 0;
         float: none;
         display: table-cell;
     }
