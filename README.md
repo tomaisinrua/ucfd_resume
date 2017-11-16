@@ -14,5 +14,4 @@
         6) Coffee
         7) JS - jQuery
 
-
 #### Hope you enjoy my Resume Mini-Project
