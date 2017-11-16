@@ -1,9 +1,9 @@
-# Resume Mini-Project
+# Resume Mini-Project-2
 
 ## Code Institute
 ## Full Stack Diploma in Web Development
 
-### User Centric Frontend Development Course
+### Interactive Frontend Development Course
 
 ### Languages/Tools used
         1) HTML 5
@@ -12,6 +12,7 @@
         4) font-awesome.css
         5) hover.css
         6) Coffee
+        7) JS - jQuery
 
 
-### Hope you enjoy my Resume Mini-Project
+#### Hope you enjoy my Resume Mini-Project
